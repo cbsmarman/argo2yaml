@@ -1,4 +1,4 @@
-module argo2yaml
+module github.com/cbsmarman/argo2yaml
 
 go 1.19
 
